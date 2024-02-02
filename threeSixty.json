@@ -1,0 +1,27 @@
+{
+  "version": "3.84.31647.0",
+  "course_id": "5qhNd7qqDbI",
+  "title": "Rocket launch game",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Game"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5ZDHm9RKR9G",
+      "title": "Starting page",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
